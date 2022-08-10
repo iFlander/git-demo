@@ -2,6 +2,7 @@ qwwertrtery
 qwewetretertyr
 qwertgh
 qwerfgtyui
+<<<<<<< HEAD
 wferdgfrthgj
 fdfhfgjghjgh
 sdfggfhjjgj
@@ -9,3 +10,17 @@ wewgfgjghj
 ewedrfgfhjk
 sdrfgfhjk
 dgrfgthhujk
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+wferdgfrthgj
+fdfhfgjghjgh
+sdfggfhjjgj
+=======
+>>>>>>> b6ad18dc7c98a818e69c63bacdbbf3fdb57eb3cc
+=======
+wferdgfrthgj
+fdfhfgjghjgh
+sdfggfhjjgj
+>>>>>>> a7d97b97d97f069070272549dd30d18e140d5315
+>>>>>>> bf9792eaf5e7641eff7ea860768b09b09b65aec7
