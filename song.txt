@@ -24,4 +24,7 @@ fdfhfgjghjgh
 sdfggfhjjgj
 >>>>>>> a7d97b97d97f069070272549dd30d18e140d5315
 >>>>>>> bf9792eaf5e7641eff7ea860768b09b09b65aec7
+<<<<<<< HEAD
 qwweretrtytyuyiuioo
+=======
+>>>>>>> e3e0f148063f3250c79c8b10dbd0100e1f049211
