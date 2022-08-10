@@ -3,8 +3,14 @@ qwewetretertyr
 qwertgh
 qwerfgtyui
 <<<<<<< HEAD
+<<<<<<< HEAD
 wferdgfrthgj
 fdfhfgjghjgh
 sdfggfhjjgj
 =======
 >>>>>>> b6ad18dc7c98a818e69c63bacdbbf3fdb57eb3cc
+=======
+wferdgfrthgj
+fdfhfgjghjgh
+sdfggfhjjgj
+>>>>>>> a7d97b97d97f069070272549dd30d18e140d5315
