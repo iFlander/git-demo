@@ -2,9 +2,10 @@ qwwertrtery
 qwewetretertyr
 qwertgh
 qwerfgtyui
-<<<<<<< HEAD
 wferdgfrthgj
 fdfhfgjghjgh
 sdfggfhjjgj
-=======
->>>>>>> b6ad18dc7c98a818e69c63bacdbbf3fdb57eb3cc
+wewgfgjghj
+ewedrfgfhjk
+sdrfgfhjk
+dgrfgthhujk
